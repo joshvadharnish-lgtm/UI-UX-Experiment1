@@ -12,6 +12,9 @@ To understand the fundamentals of User Interface (UI) and User Experience (UX), 
 7. Document the observations and summarize the learning outcomes.
 
 ## Output:
+<img width="687" height="827" alt="image" src="https://github.com/user-attachments/assets/c7f90531-4d77-4632-aefe-0130204bdc08" />
+<img width="692" height="827" alt="image" src="https://github.com/user-attachments/assets/02517bb2-9b79-4768-947b-449ec9702b5e" />
+<img width="691" height="821" alt="image" src="https://github.com/user-attachments/assets/7aee8ce2-db00-46f7-9b6a-0925b4d969e4" />
 
 ## Result:
 The fundamentals of UI and UX were successfully explored. The differences between UI and UX were understood through real-world examples, their relationship in the design process was analyzed, and various UI/UX design tools were studied. A basic prototype was created, demonstrating how good UI and UX together improve the usability and overall user experience of an application.
